@@ -1,7 +1,8 @@
 name: flutter_hashtags
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://www.mateusvenancio.com.br/
+repository: https://github.com/mateushvenancio/flutter_hashtags
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
